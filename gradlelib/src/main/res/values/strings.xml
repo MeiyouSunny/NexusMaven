@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">gradleLib</string>
+    <string name="test_string">Test resouce</string>
+</resources>
